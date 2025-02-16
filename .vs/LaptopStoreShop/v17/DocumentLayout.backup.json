@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\views\\shared\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\views\\shared\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|c:\\users\\admin\\source\\repos\\aspnet-dt22ttk8-nguyentrungnghia-banlaptop\\laptopstoreshop\\areas\\admin\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E54FFE7-55E5-4887-B8DC-80040B84DAF1}|LaptopStoreShop\\LaptopStoreShop.csproj|solutionrelative:laptopstoreshop\\areas\\admin\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Views\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Views\\Login\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Views\\Login\\Register.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Views\\Login\\Register.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T13:41:08.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwDQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:38:23.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T13:37:39.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_HeaderPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Views\\Shared\\_HeaderPartial.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Views\\Shared\\_HeaderPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Views\\Shared\\_HeaderPartial.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Views\\Shared\\_HeaderPartial.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T13:26:22.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T13:25:51.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:17:17.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Repository\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Repository\\DataContext.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Repository\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:16:18.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Models\\User.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Models\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:15:43.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Models\\Laptop.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Models\\Laptop.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Models\\Laptop.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:15:26.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Models\\Category.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:14:59.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Models\\Brand.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:14:43.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Program.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Program.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:43:48.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\appsettings.json",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\appsettings.json",
+              "RelativeToolTip": "LaptopStoreShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T12:43:44.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAuwPQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T12:35:04.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:26:32.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:25:58.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:25:56.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:25:55.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:25:53.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:25:40.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T10:41:36.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T08:34:57.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T08:34:56.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T08:34:55.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T08:34:52.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T08:34:50.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T08:34:46.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LaptopStoreShop\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop\\LaptopStoreShop\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "RelativeToolTip": "LaptopStoreShop\\Areas\\Admin\\Views\\Account\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-16T08:34:44.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

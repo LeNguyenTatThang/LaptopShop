@@ -1,0 +1,187 @@
+﻿<style>
+	.dropdown {
+		position: relative;
+		display: inline-block;
+	}
+
+	.dropdown-togglee {
+		background-color: #3498db;
+		color: white;
+		padding: 10px 15px;
+		border: none;
+		cursor: pointer;
+		border-radius: 5px;
+	}
+
+	.dropdown-menu {
+		display: none;
+		position: absolute;
+		top: 100%;
+		left: 0;
+		background-color: white;
+		min-width: 160px;
+		border-radius: 5px;
+		box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+		z-index: 10;
+	}
+
+		.dropdown-menu a {
+			display: block;
+			padding: 10px;
+			text-decoration: none;
+			color: #333;
+			transition: background 0.3s;
+		}
+
+			.dropdown-menu a:hover {
+				background-color: #f1f1f1;
+			}
+</style>
+<header>
+	<!-- TOP HEADER -->
+	<div id="top-header">
+		<div class="container">
+			<ul class="header-links pull-left">
+				<li><a href="#"><i class="fa fa-phone"></i> +021-95-51-84</a></li>
+				<li><a href="#"><i class="fa fa-envelope-o"></i> email@email.com</a></li>
+				<li><a href="#"><i class="fa fa-map-marker"></i> 1734 Stonecoal Road</a></li>
+			</ul>
+			<ul class="header-links pull-right">
+				<li><a href="#"><i class="fa fa-dollar"></i> VNĐ</a></li>
+				@if (Context.Session.GetString("Name") != null)
+				{
+					<li class="dropdown">
+						<a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
+							<i class="fa fa-user-o"></i> Xin chào, @Context.Session.GetString("Name")
+						</a>
+						<div class="cart-dropdown">
+							<button class="btn btn-success">
+								Trang cá nhân
+							</button>
+
+							<button class="btn btn-success">
+								Đăng xuất
+							</button>
+						</div>
+					</li>
+				}
+				else
+				{
+					<li><a asp-controller="Login" asp-action="Index"><i class="fa fa-user-o"></i> Đăng nhập</a></li>
+				}
+				
+			</ul>
+		</div>
+	</div>
+	<div id="header">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3">
+					<div class="header-logo">
+						<a asp-controller="Home" asp-action="Index" class="logo">
+							<h1 style="color: white; padding-top:20px">Laptop Store</h1>
+						</a>
+					</div>
+				</div>
+				
+				<div class="col-md-6">
+					<div class="header-search">
+						<form style="display:flex">
+							<select class="input-select">
+								<option value="0">Tất cả sản phẩm</option>
+								<option value="1">Asus</option>
+								<option value="1">DELL</option>
+							</select>
+							<input class="input" placeholder="Nhập từ khóa">
+							<button class="search-btn">Tìm</button>
+						</form>
+					</div>
+				</div>
+
+				<div class="col-md-3 clearfix">
+					<div class="header-ctn">
+
+						<div class="dropdown">
+							<a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
+								<i class="fa fa-shopping-cart"></i>
+								<span>Giỏ hàng</span>
+								<div class="qty">3</div>
+							</a>
+							<div class="cart-dropdown">
+								<div class="cart-list">
+									<div class="product-widget">
+										<div class="product-img">
+											<img src="~/assets/img/product01.png" alt="">
+										</div>
+										<div class="product-body">
+											<h3 class="product-name"><a href="#">product name goes here</a></h3>
+											<h4 class="product-price"><span class="qty">1x</span>$980.00</h4>
+										</div>
+										<button class="delete"><i class="fa fa-close"></i></button>
+									</div>
+
+									<div class="product-widget">
+										<div class="product-img">
+											<img src="~/assets/img/product02.png" alt="">
+										</div>
+										<div class="product-body">
+											<h3 class="product-name"><a href="#">product name goes here</a></h3>
+											<h4 class="product-price"><span class="qty">3x</span>$980.00</h4>
+										</div>
+										<button class="delete"><i class="fa fa-close"></i></button>
+									</div>
+								</div>
+								<div class="cart-summary">
+									<small>3 sản phẩm</small>
+									<h5>Tổng: 2940 VNĐ</h5>
+								</div>
+								<div class="cart-btns">
+									<a href="#">Xem giỏ hàng</a>
+									<a href="#">Thanh toán  <i class="fa fa-arrow-circle-right"></i></a>
+								</div>
+							</div>
+						</div>
+						<div class="menu-toggle">
+							<a href="#">
+								<i class="fa fa-bars"></i>
+								<span>Menu</span>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+<nav id="navigation">
+	<div class="container">
+		<div id="responsive-nav">
+			<ul class="main-nav nav navbar-nav">
+				<li class="active"><a asp-controller="Home" asp-action="Index">Trang chủ</a></li>
+				<li><a href="#">Laptop</a></li>
+				<li><a href="#">Thương hiệu</a></li>
+				<li><a href="#">Thể loại</a></li>
+				<li><a href="#">Bài viết</a></li>
+				<li><a href="#">Liên hệ</a></li>
+			</ul>
+		</div>
+	</div>
+</nav>
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		let dropdownBtn = document.getElementById("dropdownBtn");
+		let dropdownMenu = document.getElementById("dropdownMenu");
+
+		dropdownBtn.addEventListener("click", function () {
+			dropdownMenu.style.display = dropdownMenu.style.display === "block" ? "none" : "block";
+		});
+
+		// Đóng dropdown khi click ra ngoài
+		document.addEventListener("click", function (event) {
+			if (!dropdownBtn.contains(event.target) && !dropdownMenu.contains(event.target)) {
+				dropdownMenu.style.display = "none";
+			}
+		});
+	});
+</script>
