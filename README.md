@@ -1,4 +1,4 @@
-# ASPNET-DT22TTK8-NguyenTrungNghia-banlaptop
+# ASPNET-banlaptop
 Xây dựng website bán laptop bằng ASP.NET
 # Tuần 1
 - Phân tích yêu cầu, xác định tính năng chính (Quản lý sản phẩm, giỏ hàng, đăng nhập, thanh toán).
